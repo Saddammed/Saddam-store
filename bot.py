@@ -34,18 +34,6 @@ https://wa.me/message/REDKIHRAVCUEB1
 
 💬 تيليجرام:
 https://t.me/Saddammed
-
-تيك توك :
-https://www.tiktok.com/@saddam33000?_r=1&_t=ZS-93Tuli9DorB
-
-فيسبوك :
-https://www.facebook.com/share/17hWP9gCDd/?mibextid=wwXIfr
-
-قناة واتساب :
-https://whatsapp.com/channel/0029Vb74xLN1yT2ArsVMwS2B
-
-قناة اتلجرام :
-https://t.me/Online_store485353
 """
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -75,3 +63,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
